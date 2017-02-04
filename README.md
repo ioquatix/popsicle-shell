@@ -1,6 +1,6 @@
 # Popsicle Shell
 
-This repository includes a fully parametric reversiable ice cream mold and stick. It is designed to be used with play dough.
+This repository includes a fully parametric reversible ice cream mold and stick. It is designed to be used with play dough.
 
 ![Ice Cream](photos/IMG_8347.jpg)
 
