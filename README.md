@@ -14,7 +14,7 @@ Noting in particular.
 
 ## Instructions
 
-1. Print out two shells and a stick.
+1. Print out two shells and a stick. I actually recommend **several sticks** if you are intending to use this with children.
 2. Fill with (ideally rainbow coloured) play dough and place stick in the middle.
 
 	![Ice Cream](photos/IMG_8339.JPG)
