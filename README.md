@@ -2,7 +2,7 @@
 
 This repository includes a fully parametric reversiable ice cream mold and stick. It is designed to be used with play dough.
 
-![Ice Cream](photos/IMG_8343.JPG)
+![Ice Cream](photos/IMG_8347.jpg)
 
 ## Motivation
 
@@ -17,11 +17,15 @@ Noting in particular.
 1. Print out two shells and a stick. I actually recommend **several sticks** if you are intending to use this with children.
 2. Fill with (ideally rainbow coloured) play dough and place stick in the middle.
 
-	![Ice Cream](photos/IMG_8339.JPG)
+	![Ice Cream](photos/IMG_8339.jpg)
 
 3. Press together until shell is completely closed, and scrape away any excess coming out the sides.
 
-	![Ice Cream](photos/IMG_8342.JPG)
+	![Ice Cream](photos/IMG_8342.jpg)
+
+4. Remove one side, and then gently pry out using both the stick and your fingers gently on the edge of the dough.
+
+	![Ice Cream](photos/IMG_8343.jpg)
 
 ## Contributing
 
